@@ -4,7 +4,7 @@
 
 :warning: **Fork this repository in order to use it!** If you're following along the videos and trying to run the workflows here, they will not work.
 
-### Course attachement
+### Course attachements
 
 > This repository is best consumed while or after following the course attachment 👇
 
